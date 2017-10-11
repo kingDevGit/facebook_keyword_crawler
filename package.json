@@ -1,0 +1,23 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Developers workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://test-l6njpco64tew@vault.phacility.com/source/se.git"
+  },
+  "author": "Rollangle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "firebase-admin": "^5.2.1",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.2",
+    "request": "^2.81.0"
+  }
+}
