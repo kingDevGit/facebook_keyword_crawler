@@ -10,7 +10,7 @@ Installation
 
 Easy enough
 ```
-npm install facebook
+npm i facebook-keyword-crawler
 ```
 
 Basic Usage
