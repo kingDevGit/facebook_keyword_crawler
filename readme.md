@@ -24,7 +24,9 @@ const FacebookKeywordCrawler = require('facebook-keyword-crawler');
 //Initialize
 let fbCrawler = new FacebookKeywordCrawler(FACEBOOK_API_TOKEN);
 
-//Set Page Array
+//Set Page Array 
+let pageArray = ['FacebookHK','thebeatles','124298817619313'];
+
 fbCrawler.setPage(PAGE_ID_ARRAY);
 
 //Crawl
