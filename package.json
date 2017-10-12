@@ -1,16 +1,16 @@
 {
   "name": "facebook-keyword-crawler",
-  "version": "1.0.0",
-  "description": "Developers workshop",
-  "main": "app.js",
+  "version": "1.0.1",
+  "description": "Simple facebook posts crawler",
+  "main": "index.js",
   "scripts": {
-    "test": "node app"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://test-l6njpco64tew@vault.phacility.com/source/se.git"
+    "url": "https://github.com/kingDevGit/facebook_keyword_crawler.git"
   },
-  "author": "Rollangle",
+  "author": "KingDev",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
