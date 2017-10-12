@@ -1,6 +1,6 @@
 {
   "name": "facebook-keyword-crawler",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple facebook posts crawler",
   "main": "index.js",
   "scripts": {
